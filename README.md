@@ -2,4 +2,4 @@
     Test style css
 
 # How to install?
-    "npm i colorJs--save"
+    "npm i colorjs--save"
