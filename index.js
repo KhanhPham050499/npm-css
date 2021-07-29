@@ -1,4 +1,4 @@
-function changeBackground(color) {
+function colorjs(color) {
     let div = document.getElementsByClassName('divColor')[0];
 
     if (color === 'red') {
@@ -9,4 +9,4 @@ function changeBackground(color) {
     }
 }
 
-module.exports.colorJs = changeBackground;
+module.exports.colorjs = colorjs;
