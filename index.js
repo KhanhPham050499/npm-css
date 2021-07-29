@@ -9,4 +9,4 @@ function changeBackground(color) {
     }
 }
 
-module.exports.changeBackground = changeBackground;
+module.exports.colorJs = changeBackground;
